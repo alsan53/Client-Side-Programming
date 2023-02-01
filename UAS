@@ -1,0 +1,1351 @@
+CODE1
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="StyleCSP_UTS.css">
+    <title>Dark-Crypto</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+  </head>
+  <body>
+    <div class="Banner">
+        <div class="Navbar">
+            <img src="Gambar/logo C.jpg" class="Logo" height="100" width="100">
+            <ul>
+                <li><a href="CSP_UTS.html">Home</a></li>
+                <li><a href="CSP_UTS2.html">Product1</a></li>
+                <li><a href="CSP_UTS3.html">Product2</a></li>
+                <li><a href="CSP_UTS4.html">Form</a></li>
+                <li><a href="CSP_UTS5.html">Contact</a></li>
+            </ul>
+        </div>
+
+        <div class="Content">
+            <h1>Dark Crypto Company</h1>
+            <p>
+                Welcome to Website about Cryptocurrency
+            </p>
+            <div>
+                <button type="button"><span></span>WATCH MORE</button>
+                <button type="button"><span></span>FOLLOW</button>
+            </div>
+        </div>
+    </div>
+
+    <section class="Isi">
+        <h1 align="center">LATAR BELAKANG</h1>
+        <p>
+            Dark-Crypto adalah Platform centralized. Disini kami membangun Platform ini dengan tujuan untuk mempermudah setiap orang mendapatkan akses atau transaksi dengan berbagai macam jenis Coin dan Token. Kami membuat ini agar setiap orang dapat menerima berbagai akses untuk mendapatkan jenis-jenis yang bermacam-macam seperti: Buy, Sell, Stake, dan Pool. Disini kami membuat Platform ini untuk mengurangi jumlah kerugian yang di akibatkan oleh para Scammers(penipu). Kami akan mengembangkan project ini seiring berjalannya waktu dan menyesuaikan dengan perkembangan teknologi di masa mendatang.
+        </p>
+        <br>
+        <br>
+        <br>
+        <br>
+        <p>
+            Disini kami memiliki visi-misi yaitu "Kenyamanan dan kemudahan di era modern". Platform yang dengan sengaja dibuat ini dapat mengurangi jumlah korban-korban yang menjadi incaran para Scamers. Selain itu, kami akan terus memperbarui sistem-sistem yang lebih dengan acuan roadmap yang akan di buat. Platform ini akan kami usahakan untuk mendukung di berbagai jaringan seperti: Solana, Sui, Aptos, Avax, dan lain sebagainya. Untuk sekarang kami akan meluncurkan jaringan Binance Smart Chain, Polygon, dan Tomo Chain, Dikarenakan untuk jaringan-jaringan tersebut memiliki Fee yang sangat murah dan sering digunakan ketika ada project atau event-event baru. 
+        </p>
+        <br>
+        <br>
+        <br>
+        <br>
+        <p>
+            Disini kami akan mengembangkan fitur-fitur baru dan membangun komunitas yang kuat untuk mempertahankan jumlah token atau coin yang tersedia, dikarenakan seiring berjalannya waktu yang ada, kami akan membutuhkan banyak cadangan token atau coin agar kami tetap bisa memfasilitasi kebutuhan atau pesanan yang di terima
+        </p>
+    </section>
+
+    <footer class="Penutup" align="center">
+        <p>Penulis: Alfin Nur Hasan</p>
+        <br>
+        <a href="alfinhasan53@gmail.com">alfinhasan53@gmail.com</a></p>
+    </footer>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+  </body>
+</html>
+
+CODE2
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="StyleCSP_UTS2.css">
+    <title>Dark-Crypto</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <div class="Banner">
+            <div class="Navbar">
+                <img src="Gambar/logo C.jpg" class="Logo" height="100" width="100">
+                <ul>
+                    <li><a href="CSP_UTS.html">Home</a></li>
+                    <li><a href="CSP_UTS2.html">Product1</a></li>
+                    <li><a href="CSP_UTS3.html">Product2</a></li>
+                    <li><a href="CSP_UTS4.html">Form</a></li>
+                    <li><a href="CSP_UTS5.html">Contact</a></li>
+                </ul>
+            </div>
+    
+            <div class="Content">
+                <h1>Dark Crypto Company</h1>
+                <p>
+                    Welcome to Website about Cryptocurrency
+                </p>
+                <div>
+                    <button type="button"><span></span>WATCH MORE</button>
+                    <button type="button"><span></span>FOLLOW</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="Isi-1">
+            <h1 align="center">Produk Yang Pertama</h1>
+            <center>
+                <div class="Tabel">
+                    <table>
+                        <tr>
+                            <td class="Tab">Jaringan Binance Smart Chain</td>
+                            <td class="Tab">Jaringan Polygon</td>
+                            <td class="Tab">Jaringan Solana</td> 
+                        </tr>
+                        <tr>
+                            <td class="Tab">- $POSI = $0.1255
+                                <div class="card" style="width: 18rem;">
+                                    <img src="Gambar/Barang/Posi.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                      <h5 class="card-title">Position</h5>
+                                      <a href="https://position.exchange/" class="btn btn-primary">Website</a>
+                                    </div>
+                                  </div>
+                            </td>
+                            <td class="Tab">- $SUSHI = $1.24
+                                <div class="card" style="width: 18rem;">
+                                    <img src="Gambar/Barang/Sushi.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                      <h5 class="card-title">Sushi</h5>
+                                      <a href="https://www.sushi.com/" class="btn btn-primary">Website</a>
+                                    </div>
+                                  </div>
+                            </td>
+                            <td class="Tab">- $DIA = $0.3116
+                                <div class="card" style="width: 18rem;">
+                                    <img src="Gambar/Barang/DIA.jpg" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                      <h5 class="card-title">Diadata</h5>
+                                      <a href="https://www.diadata.org/" class="btn btn-primary">Website</a>
+                                    </div>
+                                  </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="Tab">- $SHIB = $0.000008844
+                                <div class="card" style="width: 18rem;">
+                                    <img src="Gambar/Barang/SHIB.jpg" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                      <h5 class="card-title">Shibatoken</h5>
+                                      <a href="https://shibatoken.com/" class="btn btn-primary">Website</a>
+                                    </div>
+                                  </div>
+                            </td>
+                            <td class="Tab">- $RNDR = $0.471
+                                <div class="card" style="width: 18rem;">
+                                    <img src="Gambar/Barang/RNDR.jpg" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                      <h5 class="card-title">Rendertoken</h5>
+                                      <a href="https://rendertoken.com/" class="btn btn-primary">Website</a>
+                                    </div>
+                                  </div>
+                            </td>
+                            <td class="Tab">- $CHO = $0.9296
+                                <div class="card" style="width: 18rem;">
+                                    <img src="Gambar/Barang/CHO.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                      <h5 class="card-title">Choise</h5>
+                                      <a href="https://choise.com/" class="btn btn-primary">Website</a>
+                                    </div>
+                                  </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="Tab">- $FLOKI = $0.000009149
+                                <div class="card" style="width: 18rem;">
+                                    <img src="Gambar/Barang/CHO.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                      <h5 class="card-title">Floki</h5>
+                                      <a href="https://floki.com/" class="btn btn-primary">Website</a>
+                                    </div>
+                                  </div>
+                            </td>
+                            <td class="Tab">- $WOO = $0.115
+                                <div class="card" style="width: 18rem;">
+                                    <img src="Gambar/Barang/Woo.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                      <h5 class="card-title">Woo</h5>
+                                      <a href="https://woo.org/token" class="btn btn-primary">Website</a>
+                                    </div>
+                                  </div>
+                            </td>
+                            <td class="Tab">- $ATLAS = $0.002429
+                                <div class="card" style="width: 18rem;">
+                                    <img src="Gambar/Barang/Atlas.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                      <h5 class="card-title">Staratlas</h5>
+                                      <a href="https://staratlas.com/" class="btn btn-primary">Website</a>
+                                    </div>
+                                  </div>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </center>
+        </div>
+
+        <footer class="Penutup" align="center">
+            <p>Penulis: Alfin Nur Hasan</p>
+            <br>
+            <a href="alfinhasan53@gmail.com">alfinhasan53@gmail.com</a></p>
+        </footer>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>
+
+CODE3
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="StyleCSP_UTS3.css">
+    <title>Dark-Crypto</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <div class="Banner">
+            <div class="Navbar">
+                <img src="Gambar/logo C.jpg" class="Logo" height="100" width="100">
+                <ul>
+                    <li><a href="CSP_UTS.html">Home</a></li>
+                    <li><a href="CSP_UTS2.html">Product1</a></li>
+                    <li><a href="CSP_UTS3.html">Product2</a></li>
+                    <li><a href="CSP_UTS4.html">Form</a></li>
+                    <li><a href="CSP_UTS5.html">Contact</a></li>
+                </ul>
+            </div>
+    
+            <div class="Content">
+                <h1>Dark Crypto Company</h1>
+                <p>
+                    Welcome to Website about Cryptocurrency
+                </p>
+                <div>
+                    <button type="button"><span></span>WATCH MORE</button>
+                    <button type="button"><span></span>FOLLOW</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="Isi-1">
+            <h1 align="center">Produk Yang Kedua</h1>
+            <center>
+                <div class="Tabel">
+                    <table>
+                        <tr>
+                            <td class="Tab">Jaringan Heco</td>
+                            <td class="Tab">Jaringan Avalanche</td>
+                            <td class="Tab">Jaringan Fantom</td> 
+                        </tr>
+                        <tr>
+                            <td class="Tab">- $MAKI = $0.001447
+                                <div class="card" style="width: 18rem;">
+                                    <img src="Gambar/Barang/Maki.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                      <h5 class="card-title">Makiswap</h5>
+                                      <a href="https://makiswap.com/" class="btn btn-primary">Website</a>
+                                    </div>
+                                </div>
+                            </td>
+                            <td class="Tab">- $FRAX = $0.9841
+                                <div class="card" style="width: 18rem;">
+                                    <img src="Gambar/Barang/Frax.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                      <h5 class="card-title">Frax</h5>
+                                      <a href="https://frax.finance/#welcome" class="btn btn-primary">Website</a>
+                                    </div>
+                                </div>
+                            </td>
+                            <td class="Tab">- $STG = $0.4149
+                                <div class="card" style="width: 18rem;">
+                                    <img src="Gambar/Barang/STG.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                      <h5 class="card-title">Stargate</h5>
+                                      <a href="https://stargate.finance/" class="btn btn-primary">Website</a>
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="Tab">- $DOGES = $2.44
+                                <div class="card" style="width: 18rem;">
+                                    <img src="Gambar/Barang/Doges.webp" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                      <h5 class="card-title">Doge-Finance</h5>
+                                      <a href="https://doge-finance.com/" class="btn btn-primary">Website</a>
+                                    </div>
+                                </div>
+                            </td>
+                            <td class="Tab">- $ANY = $4.01
+                                <div class="card" style="width: 18rem;">
+                                    <img src="Gambar/Barang/ANY.webp" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                      <h5 class="card-title">Anyswap</h5>
+                                      <a href="https://anyswap.exchange/dashboard" class="btn btn-primary">Website</a>
+                                    </div>
+                                </div>
+                            </td>
+                            <td class="Tab">- $sUSD = $0.9983
+                                <div class="card" style="width: 18rem;">
+                                    <img src="Gambar/Barang/sUSD.webp" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                      <h5 class="card-title">Synthetix</h5>
+                                      <a href="https://synthetix.io/" class="btn btn-primary">Website</a>
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="Tab">- $DEP = $0.003807
+                                <div class="card" style="width: 18rem;">
+                                    <img src="Gambar/Barang/DEP.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                      <h5 class="card-title">Digital Entertaiment Asset Pte</h5>
+                                      <a href="https://dea.sg/" class="btn btn-primary">Website</a>
+                                    </div>
+                                </div>
+                            </td>
+                            <td class="Tab">- $FXS = $4.53
+                                <div class="card" style="width: 18rem;">
+                                    <img src="Gambar/Barang/FXS.jpg" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                      <h5 class="card-title">Frax Share</h5>
+                                      <a href="https://frax.finance/#welcome" class="btn btn-primary">Website</a>
+                                    </div>
+                                </div>
+                            </td>
+                            <td class="Tab">- $VIDT = $0.04666
+                                <div class="card" style="width: 18rem;">
+                                    <img src="Gambar/Barang/VIDT.png" class="card-img-top" alt="...">
+                                    <div class="card-body">
+                                      <h5 class="card-title">Vidt Dao</h5>
+                                      <a href="https://vidt-dao.com/" class="btn btn-primary">Website</a>
+                                    </div>
+                                </div>
+                            </td>
+                        </tr>
+                    </table>
+                </div>
+            </center>
+        </div>
+
+        <footer class="Penutup" align="center">
+            <p>Penulis: Alfin Nur Hasan</p>
+            <br>
+            <a href="alfinhasan53@gmail.com">alfinhasan53@gmail.com</a></p>
+            <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+        </footer>
+    </body>
+</html>
+
+CODE4
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="StyleCSP_UTS4.css">
+    <title>Dark-Crypto</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <div class="Banner">
+            <div class="Navbar">
+                <img src="Gambar/logo C.jpg" class="Logo" height="100" width="100">
+                <ul>
+                    <li><a href="CSP_UTS.html">Home</a></li>
+                    <li><a href="CSP_UTS2.html">Product1</a></li>
+                    <li><a href="CSP_UTS3.html">Product2</a></li>
+                    <li><a href="CSP_UTS4.html">Form</a></li>
+                    <li><a href="CSP_UTS5.html">Contact</a></li>
+                </ul>
+            </div>
+
+            <div class="Content">
+                <h1>Dark Crypto Company</h1>
+                <p>
+                    Welcome to Website about Cryptocurrency
+                </p>
+                <div>
+                    <button type="button"><span></span>WATCH MORE</button>
+                    <button type="button"><span></span>FOLLOW</button>
+                </div>
+            </div>
+        </div>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+
+    <body bgcolor="black"><a name="Home"></a>
+        <div class="form-style-10">
+            <h1>Sign Up Now!<span>Sign up and tell us what you think of the site!</span></h1>
+            <form>
+                <div class="section"><span>1</span>First Name & Address</div>
+                <div class="inner-wrap">
+                    <label>Your Full Name <input type="text" name="field1" /></label>
+                    <label>Address <textarea name="field2"></textarea></label>
+                </div>
+    
+                <div class="section"><span>2</span>Email & Phone</div>
+                <div class="inner-wrap">
+                    <label>Email Address <input type="email" name="field3" /></label>
+                    <label>Phone Number <input type="text" name="field4" /></label>
+                </div>
+    
+                <div class="section"><span>3</span>Passwords</div>
+                <div class="inner-wrap">
+                    <label>Password <input type="password" name="field5" /></label>
+                    <label>Confirm Password <input type="password" name="field6" /></label>
+                </div>
+
+                <div class="button-section">
+                    <input type="submit" name="Sign Up" />
+                    <span class="privacy-policy">
+                        <input type="checkbox" name="field7">You agree to our Terms and Policy. 
+                    </span>
+                </div>
+            </form>
+        </div>
+
+        <footer class="Penutup" align="center">
+            <p>Penulis: Alfin Nur Hasan</p>
+            <br>
+            <a href="alfinhasan53@gmail.com">alfinhasan53@gmail.com</a></p>
+        </footer>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>
+    </body>
+</html>
+
+CODE5
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="StyleCSP_UTS5.css">
+    <title>Dark-Crypto</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
+    </head>
+    <body>
+        <div class="Banner">
+            <div class="Navbar">
+                <img src="Gambar/logo C.jpg" class="Logo" height="100" width="100">
+                <ul>
+                    <li><a href="CSP_UTS.html">Home</a></li>
+                    <li><a href="CSP_UTS2.html">Product1</a></li>
+                    <li><a href="CSP_UTS3.html">Product2</a></li>
+                    <li><a href="CSP_UTS4.html">Form</a></li>
+                    <li><a href="CSP_UTS5.html">Contact</a></li>
+                </ul>
+            </div>
+    
+            <div class="Content">
+                <h1>Dark Crypto Company</h1>
+                <p>
+                    Welcome to Website about Cryptocurrency
+                </p>
+                <div>
+                    <button type="button"><span></span>WATCH MORE</button>
+                    <button type="button"><span></span>FOLLOW</button>
+                </div>
+            </div>
+        </div>
+
+        <div class="Last">
+            <center>
+                <P>Nama : Alfin Nur Hasan</P>
+                <p>NIM  : 21201164</p>
+            </center>
+        </div>
+
+        <footer class="Penutup" align="center">
+            <p>Penulis: Alfin Nur Hasan</p>
+            <br>
+            <a href="alfinhasan53@gmail.com">alfinhasan53@gmail.com</a></p>
+        </footer>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js" integrity="sha384-w76AqPfDkMBDXo30jS1Sgez6pr3x5MlQ1ZAGC+nuZB+EYdgRZgiwxhTBTkF7CXvN" crossorigin="anonymous"></script>       
+    </body>
+</html>
+
+STYLE1
+
+*{
+    margin: 0;
+    padding: 0; 
+    font-family: sans-serif;
+
+}
+
+.Banner{
+    width: 100%;
+    height: 100vh;
+    background-image:linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(Gambar/Crypto2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.Navbar{    
+    width: 85%;
+    margin: auto;
+    padding: 53px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Logo{
+    width: 120px;
+    cursor: pointer;
+}
+
+.Navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    position: relative;
+}
+
+.Navbar ul li a{
+    text-decoration: none;
+    color: aliceblue;
+    text-transform: uppercase;
+}
+
+.Navbar ul li::after{
+    content: '';
+    height: 3px;
+    width: 0;                           /*sebelumnya 100% sebelum di tambahkan .Navbar ul li:hover::after */
+    background: #0167ff;
+    position: absolute;
+    left: 0;
+    bottom: -10px;
+    transition: 1s;
+}
+
+.Navbar ul li:hover::after{
+    width: 100%;
+}
+
+.Content{
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+    color: aliceblue;
+}
+
+.Content h1{
+    font-size: 70px;
+    margin-top: 80px;
+}
+
+.Content p{
+    margin: 20px auto;
+    font-weight: 100;
+    line-height: 25px;
+}
+
+button{
+    width: 200px;
+    padding: 15px 0;
+    text-align: center;
+    margin: 20px 10px;
+    border-radius: 25px;
+    font-weight: bold;
+    border: 2px solid #0167ff;
+    background: transparent;
+    color: #fff;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+}
+
+span{
+    background: #0167ff;
+    height: 100%;
+    width: 0;
+    border-radius: 25px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    z-index: -1;
+    transition: 1s;
+}
+
+button:hover span{
+    width: 100%;
+}
+
+button:hover{
+    border: none;
+}
+
+.Pilihan{
+    align-items: center;
+    padding: 30px;
+    background-color: #4D4D4D;
+}
+
+.Pilihan td{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.Isi{
+    padding-bottom: 100px;
+    background-color: #498ba5;
+}
+
+.Isi h1{
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+.Isi p{
+    padding-left: 250px;
+    padding-right: 250px;
+    font-size: larger;
+    letter-spacing: 3px;
+}
+.Penutup{
+    background-color: black;
+    align-items: center;
+    padding-top: 30px;
+}
+
+STYLE2
+
+*{
+    margin: 0;
+    padding: 0; 
+    font-family: sans-serif;
+
+}
+
+.Banner{
+    width: 100%;
+    height: 100vh;
+    background-image:linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(Gambar/Crypto2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.Navbar{    
+    width: 85%;
+    margin: auto;
+    padding: 53px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Logo{
+    width: 120px;
+    cursor: pointer;
+}
+
+.Navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    position: relative;
+}
+
+.Navbar ul li a{
+    text-decoration: none;
+    color: aliceblue;
+    text-transform: uppercase;
+}
+
+.Navbar ul li::after{
+    content: '';
+    height: 3px;
+    width: 0;                           /*sebelumnya 100% sebelum di tambahkan .Navbar ul li:hover::after */
+    background: #0167ff;
+    position: absolute;
+    left: 0;
+    bottom: -10px;
+    transition: 1s;
+}
+
+.Navbar ul li:hover::after{
+    width: 100%;
+}
+
+.Content{
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+    color: aliceblue;
+}
+
+.Content h1{
+    font-size: 70px;
+    margin-top: 80px;
+}
+
+.Content p{
+    margin: 20px auto;
+    font-weight: 100;
+    line-height: 25px;
+}
+
+button{
+    width: 200px;
+    padding: 15px 0;
+    text-align: center;
+    margin: 20px 10px;
+    border-radius: 25px;
+    font-weight: bold;
+    border: 2px solid #0167ff;
+    background: transparent;
+    color: #fff;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+}
+
+span{
+    background: #0167ff;
+    height: 100%;
+    width: 0;
+    border-radius: 25px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    z-index: -1;
+    transition: 1s;
+}
+
+button:hover span{
+    width: 100%;
+}
+
+button:hover{
+    border: none;
+}
+
+.Pilihan{
+    align-items: center;
+    padding: 30px;
+    background-color: #4D4D4D;
+}
+
+.Pilihan td{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.Isi{
+    padding-bottom: 100px;
+    background-color: #498ba5;
+}
+
+.Isi h1{
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+.Isi p{
+    padding-left: 250px;
+    padding-right: 250px;
+    font-size: larger;
+    letter-spacing: 3px;
+}
+.Penutup{
+    background-color: black;
+    align-items: center;
+    padding-top: 30px;
+}
+
+STYLE3
+
+*{
+    margin: 0;
+    padding: 0; 
+    font-family: sans-serif;
+
+}
+
+.Banner{
+    width: 100%;
+    height: 100vh;
+    background-image:linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(Gambar/Crypto2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.Navbar{    
+    width: 85%;
+    margin: auto;
+    padding: 53px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Logo{
+    width: 120px;
+    cursor: pointer;
+}
+
+.Navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    position: relative;
+}
+
+.Navbar ul li a{
+    text-decoration: none;
+    color: aliceblue;
+    text-transform: uppercase;
+}
+
+.Navbar ul li::after{
+    content: '';
+    height: 3px;
+    width: 0;                           /*sebelumnya 100% sebelum di tambahkan .Navbar ul li:hover::after */
+    background: #0167ff;
+    position: absolute;
+    left: 0;
+    bottom: -10px;
+    transition: 1s;
+}
+
+.Navbar ul li:hover::after{
+    width: 100%;
+}
+
+.Content{
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+    color: aliceblue;
+}
+
+.Content h1{
+    font-size: 70px;
+    margin-top: 80px;
+}
+
+.Content p{
+    margin: 20px auto;
+    font-weight: 100;
+    line-height: 25px;
+}
+
+button{
+    width: 200px;
+    padding: 15px 0;
+    text-align: center;
+    margin: 20px 10px;
+    border-radius: 25px;
+    font-weight: bold;
+    border: 2px solid #0167ff;
+    background: transparent;
+    color: #fff;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+}
+
+span{
+    background: #0167ff;
+    height: 100%;
+    width: 0;
+    border-radius: 25px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    z-index: -1;
+    transition: 1s;
+}
+
+button:hover span{
+    width: 100%;
+}
+
+button:hover{
+    border: none;
+}
+
+.Pilihan td{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.Isi{
+    padding-bottom: 100px;
+    background-color: #498ba5;
+}
+
+.Isi h1{
+    justify-content: center;
+    align-items: center;
+    padding-top: 50px;
+    padding-bottom: 100px;
+}
+
+.Isi p{
+    padding-left: 250px;
+    padding-right: 250px;
+    font-size: larger;
+    letter-spacing: 3px;
+}
+
+.Isi-1{
+    align-items: center;
+    background-color: #498ba5;
+    padding-top: 40px;
+}
+
+.Isi-1 .Tabel{
+    padding: 30px;
+}
+
+.Isi-1 .Tabel .Tab{
+    padding-left: 95px;
+    padding-right: 95px;
+    margin-left: 95px;
+    margin-right: 95px;
+    padding-bottom: 50px;
+}
+
+.card-body{
+    background-color: black;
+}
+
+.Penutup{
+    background-color: black;
+    align-items: center;
+    padding-top: 30px;
+}
+
+STYLE4
+
+*{
+    margin: 0;
+    padding: 0; 
+    font-family: sans-serif;
+
+}
+
+.Banner{
+    width: 100%;
+    height: 100vh;
+    background-image:linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(Gambar/Crypto2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.Navbar{    
+    width: 85%;
+    margin: auto;
+    padding: 53px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Logo{
+    width: 120px;
+    cursor: pointer;
+}
+
+.Navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    position: relative;
+}
+
+.Navbar ul li a{
+    text-decoration: none;
+    color: aliceblue;
+    text-transform: uppercase;
+}
+
+.Navbar ul li::after{
+    content: '';
+    height: 3px;
+    width: 0;                           /*sebelumnya 100% sebelum di tambahkan .Navbar ul li:hover::after */
+    background: #0167ff;
+    position: absolute;
+    left: 0;
+    bottom: -10px;
+    transition: 1s;
+}
+
+.Navbar ul li:hover::after{
+    width: 100%;
+}
+
+.Content{
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+    color: aliceblue;
+}
+
+.Content h1{
+    font-size: 70px;
+    margin-top: 80px;
+}
+
+.Content p{
+    margin: 20px auto;
+    font-weight: 100;
+    line-height: 25px;
+}
+
+button{
+    width: 200px;
+    padding: 15px 0;
+    text-align: center;
+    margin: 20px 10px;
+    border-radius: 25px;
+    font-weight: bold;
+    border: 2px solid #0167ff;
+    background: transparent;
+    color: #fff;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+}
+
+span{
+    background: #0167ff;
+    height: 100%;
+    width: 0;
+    border-radius: 25px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    z-index: -1;
+    transition: 1s;
+}
+
+button:hover span{
+    width: 100%;
+}
+
+button:hover{
+    border: none;
+}
+
+.form-style-10{
+    width: 450px;
+    padding: 30px;
+    margin:40px auto;
+    background: #FFF;
+    border-radius: 10px;
+    -webkit-border-radius:10px;
+    -moz-border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.13);
+    -moz-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.13);
+    -webkit-box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.13);
+}
+
+.form-style-10 .inner-wrap{
+    padding: 30px;
+    background: #F8F8F8;
+    border-radius: 6px;
+    margin-bottom: 15px;
+}
+
+.form-style-10 h1{
+    background: #2A88AD;
+    padding: 20px 30px 15px 30px;
+    margin: -30px -30px 30px -30px;
+    border-radius: 10px 10px 0 0;
+    -webkit-border-radius: 10px 10px 0 0;
+    -moz-border-radius: 10px 10px 0 0;
+    color: #fff;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.12);
+    font: normal 30px 'Bitter', serif;
+    -moz-box-shadow: inset 0px 2px 2px 0px rgba(255, 255, 255, 0.17);
+    -webkit-box-shadow: inset 0px 2px 2px 0px rgba(255, 255, 255, 0.17);
+    box-shadow: inset 0px 2px 2px 0px rgba(255, 255, 255, 0.17);
+    border: 1px solid #257C9E;
+}
+
+.form-style-10 h1 > span{
+    display: block;
+    margin-top: 2px;
+    font: 13px Arial, Helvetica, sans-serif;
+}
+
+.form-style-10 label{
+    display: block;
+    font: 13px Arial, Helvetica, sans-serif;
+    color: #888;
+    margin-bottom: 15px;
+}
+
+.form-style-10 input[type="text"],
+
+.form-style-10 input[type="date"],
+
+.form-style-10 input[type="datetime"],
+
+.form-style-10 input[type="email"],
+
+.form-style-10 input[type="number"],
+
+.form-style-10 input[type="search"],
+
+.form-style-10 input[type="time"],
+
+.form-style-10 input[type="url"],
+
+.form-style-10 input[type="password"],
+
+.form-style-10 textarea,
+
+.form-style-10 select {
+    display: block;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    width: 100%;
+    padding: 8px;
+    border-radius: 6px;
+    -webkit-border-radius:6px;
+    -moz-border-radius:6px;
+    border: 2px solid #fff;
+    box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.33);
+    -moz-box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.33);
+    -webkit-box-shadow: inset 0px 1px 1px rgba(0, 0, 0, 0.33);
+}
+
+.form-style-10 .section{
+    font: normal 20px 'Bitter', serif;
+    color: #2A88AD;
+    margin-bottom: 5px;
+}
+
+.form-style-10 .section span {
+    background: #2A88AD;
+    padding: 5px 10px 5px 10px;
+    position: absolute;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    border: 4px solid #fff;
+    font-size: 14px;
+    margin-left: -45px;
+    color: #fff;
+    margin-top: -3px;
+}
+
+.form-style-10 input[type="button"], 
+
+.form-style-10 input[type="submit"]{
+    background: #2A88AD;
+    padding: 8px 20px 8px 20px;
+    border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    color: #fff;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.12);
+    font: normal 30px 'Bitter', serif;
+    -moz-box-shadow: inset 0px 2px 2px 0px rgba(255, 255, 255, 0.17);
+    -webkit-box-shadow: inset 0px 2px 2px 0px rgba(255, 255, 255, 0.17);
+    box-shadow: inset 0px 2px 2px 0px rgba(255, 255, 255, 0.17);
+    border: 1px solid #257C9E;
+    font-size: 15px;
+}
+
+.form-style-10 input[type="button"]:hover, 
+
+.form-style-10 input[type="submit"]:hover{
+    background: #2A6881;
+    -moz-box-shadow: inset 0px 2px 2px 0px rgba(255, 255, 255, 0.28);
+    -webkit-box-shadow: inset 0px 2px 2px 0px rgba(255, 255, 255, 0.28);
+    box-shadow: inset 0px 2px 2px 0px rgba(255, 255, 255, 0.28);
+}
+
+.form-style-10 .privacy-policy{
+    float: right;
+    width: 250px;
+    font: 12px Arial, Helvetica, sans-serif;
+    color: #4D4D4D;
+    margin-top: 10px;
+    text-align: right;
+}
+
+STYLE5
+
+*{
+    margin: 0;
+    padding: 0; 
+    font-family: sans-serif;
+
+}
+
+.Banner{
+    width: 100%;
+    height: 100vh;
+    background-image:linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(Gambar/Crypto2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+.Navbar{    
+    width: 85%;
+    margin: auto;
+    padding: 53px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.Logo{
+    width: 120px;
+    cursor: pointer;
+}
+
+.Navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+    position: relative;
+}
+
+.Navbar ul li a{
+    text-decoration: none;
+    color: aliceblue;
+    text-transform: uppercase;
+}
+
+.Navbar ul li::after{
+    content: '';
+    height: 3px;
+    width: 0;                           /*sebelumnya 100% sebelum di tambahkan .Navbar ul li:hover::after */
+    background: #0167ff;
+    position: absolute;
+    left: 0;
+    bottom: -10px;
+    transition: 1s;
+}
+
+.Navbar ul li:hover::after{
+    width: 100%;
+}
+
+.Content{
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    text-align: center;
+    color: aliceblue;
+}
+
+.Content h1{
+    font-size: 70px;
+    margin-top: 80px;
+}
+
+.Content p{
+    margin: 20px auto;
+    font-weight: 100;
+    line-height: 25px;
+}
+
+button{
+    width: 200px;
+    padding: 15px 0;
+    text-align: center;
+    margin: 20px 10px;
+    border-radius: 25px;
+    font-weight: bold;
+    border: 2px solid #0167ff;
+    background: transparent;
+    color: #fff;
+    cursor: pointer;
+    position: relative;
+    overflow: hidden;
+}
+
+span{
+    background: #0167ff;
+    height: 100%;
+    width: 0;
+    border-radius: 25px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    z-index: -1;
+    transition: 1s;
+}
+
+button:hover span{
+    width: 100%;
+}
+
+button:hover{
+    border: none;
+}
+
+.Pilihan{
+    align-items: center;
+    padding: 30px;
+    background-color: #4D4D4D;
+}
+
+.Pilihan td{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.Last{
+    background-color: #498ba5;
+    text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.Penutup{
+    background-color: black;
+    align-items: center;
+    padding-top: 30px;
+}
